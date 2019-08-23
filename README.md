@@ -8,3 +8,6 @@ Prob-PIT [1] is an extended version of Permutation Invariant Training (PIT)[2]. 
   
 # How to run:
 This repository contains the LSTM-based Network for speech separation with Prob-PIT loss function. The easiest way to run the entire separation system is to download the PIT separation system [here](https://github.com/pchao6/LSTM_PIT_Speech_Separation.git) and replace the model.py with the probabilistic_pit_model.py in this repository.
+
+[1] Yousefi, Midia, Soheil Khorram, and John HL Hansen. "Probabilistic Permutation Invariant Training for Speech Separation." arXiv preprint arXiv:1908.01768 (2019).
+[2]Yu, Dong, et al. "Permutation invariant training of deep models for speaker-independent multi-talker speech separation." 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017.
